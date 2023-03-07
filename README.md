@@ -20,4 +20,6 @@ curso de Sistemas de informação 7 semestre
 
 Estudando java COMPLETO 2023 Programação Orientada a Objetos +Projetos
 
- <b>Apaixonado por tegnologia, Inovação</b>
+ <b>Apaixonado por tegnologia, Inovação</b>  
+ <div align="finishinge"><img src="https://user-images.githubusercontent.com/70125868/223308798-c7fbe56f-7dd3-483b-ab77-c21776a1e0c6.png" width="100px" />
+</div>
