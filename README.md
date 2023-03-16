@@ -11,12 +11,11 @@
 ![joao vitor matteo](https://github-readme-stats.vercel.app/api?username=joao503&show_icons=true&theme=radical)
 
 Estou estudando  
-
 na faculdade univag 
-
 Cuiabá MT
+curso de Sistemas de informação 7 
 
-curso de Sistemas de informação 7 semestre
+Curso estra curriculares 
 
 Estudando java COMPLETO 2023 Programação Orientada a Objetos +Projetos
 
