@@ -13,7 +13,8 @@
 Estou estudando  
 na faculdade univag 
 Cuiabá MT
-curso de Sistemas de informação 7 
+curso de Sistemas de informação 8
+trabalhando na univag como estagiário na área de suporte de infra estrutura 
 
 Curso estra curriculares 
 
