@@ -19,7 +19,7 @@ trabalhei na univag como estagiário na área de suporte de infra estrutura
 
 Cuesoso Feitos
 Montagem e Manutenção de Computador do ZERO
-certificado: ude.my/UC-3473c241-e620-4b9b-bf4a-512a24cdcb71
+ude.my/UC-3473c241-e620-4b9b-bf4a-512a24cdcb71
 
  <b>Apaixonado por tegnologia, Inovação</b>  
  <div align="finishinge"><img src="https://user-images.githubusercontent.com/70125868/223308798-c7fbe56f-7dd3-483b-ab77-c21776a1e0c6.png" width="100px" />
