@@ -7,21 +7,19 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-matteo-73b92a1b4/)
 [![Tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@desvaiser?lang=pt-BR)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.twitch.tv/desvaiser)
+[![WhatsApp]([![Discord](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
 
 ![joao vitor matteo](https://github-readme-stats.vercel.app/api?username=joao503&show_icons=true&theme=radical)
 
-Estou estudando  
-na faculdade univag 
-Cuiabá MT
-curso de Sistemas de informação 8
-trabalhando na univag como estagiário na área de suporte de infra estrutura 
+Formado em Sistemas de informação 
+Faculdade: 
+UNIVAG - Centro Universitário de Várzea Grande
+Varzea Grande MT
+trabalhei na univag como estagiário na área de suporte de infra estrutura 
 
-Curso estra curriculares 
-
-Estudando java COMPLETO 2023 Programação Orientada a Objetos +Projetos
-
-Curso desenvolvendo Aplicativo em Flutter e Dart do básico ao avançado 3/121
-https://youtube.com/playlist?list=PL5EmR7zuTn_Yu_YV2pT0h0843vRGiTMtx
+Cuesoso Feitos
+Montagem e Manutenção de Computador do ZERO
+certificado: ude.my/UC-3473c241-e620-4b9b-bf4a-512a24cdcb71
 
  <b>Apaixonado por tegnologia, Inovação</b>  
  <div align="finishinge"><img src="https://user-images.githubusercontent.com/70125868/223308798-c7fbe56f-7dd3-483b-ab77-c21776a1e0c6.png" width="100px" />
