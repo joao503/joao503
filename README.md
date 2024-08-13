@@ -19,6 +19,7 @@ trabalhei na univag como estagiário na área de suporte de infra estrutura
 
 Cuesoso Feitos
 Montagem e Manutenção de Computador do ZERO
+
 ude.my/UC-3473c241-e620-4b9b-bf4a-512a24cdcb71
 
  <b>Apaixonado por tegnologia, Inovação</b>  
