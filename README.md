@@ -1,4 +1,4 @@
-### Olá! eu sou João Vitor Lacerda Matteo👋
+se### Olá! eu sou João Vitor Lacerda Matteo👋
 
 ## Sobre Mim
 
@@ -37,4 +37,12 @@ Montagem e Manutenção de Computador do ZERO
 
  <b>Apaixonado por tegnologia, Inovação</b>  
  <div align="finishinge"><img src="https://user-images.githubusercontent.com/70125868/223308798-c7fbe56f-7dd3-483b-ab77-c21776a1e0c6.png" width="100px" />
+</div>
+<b>Apaixonado por tecnologia, Inovação</b>  
+<div align="center">
+    <img src="URL_DA_IMAGEM_DA_SNAKE" width="100px" />
+</div>
+<b>Apaixonado por tecnologia, Inovação</b>  
+<div align="center">
+    <img src="URL_DA_IMAGEM_DA_SNAKE" width="100px" />
 </div>
