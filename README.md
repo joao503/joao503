@@ -1,4 +1,4 @@
-se### Olá! eu sou João Vitor Lacerda Matteo👋
+## Olá eu sou João Vitor Lacerda Matteo👋
 
 ## Sobre Mim
 
@@ -24,11 +24,13 @@ Estou sempre pronto para enfrentar novos desafios e aprender mais para crescer n
 
 ![joao vitor matteo](https://github-readme-stats.vercel.app/api?username=joao503&show_icons=true&theme=radical)
 
+![212284158-e840e285-664b-44d7-b79b-e264b5e54825](https://github.com/user-attachments/assets/3ed01d12-b30e-40c2-81b8-1f42dd288067)
+
 Formado em Sistemas de informação 
 Faculdade: 
 UNIVAG - Centro Universitário de Várzea Grande
 Varzea Grande MT
-trabalhei na univag como estagiário na área de suporte de infra estrutura 
+trabalhei na univag Centro Universitário deVarzea Grande MT como estagiário na área de suporte de infra estrutura 
 
 Cuesoso Feitos
 Montagem e Manutenção de Computador do ZERO
@@ -36,13 +38,7 @@ Montagem e Manutenção de Computador do ZERO
  Certificado https://www.udemy.com/certificate/UC-3473c241-e620-4b9b-bf4a-512a24cdcb71/
 
  <b>Apaixonado por tegnologia, Inovação</b>  
- <div align="finishinge"><img src="https://user-images.githubusercontent.com/70125868/223308798-c7fbe56f-7dd3-483b-ab77-c21776a1e0c6.png" width="100px" />
-</div>
-<b>Apaixonado por tecnologia, Inovação</b>  
-<div align="center">
-    <img src="URL_DA_IMAGEM_DA_SNAKE" width="100px" />
-</div>
-<b>Apaixonado por tecnologia, Inovação</b>  
-<div align="center">
-    <img src="URL_DA_IMAGEM_DA_SNAKE" width="100px" />
-</div>
+
+![ezgif-6-1b30f547fc](https://github.com/user-attachments/assets/f77eef7c-b683-412a-8b52-1cb9a30e545f)
+
+ ![github-contribution-grid-snake](https://github.com/user-attachments/assets/dcd0bb67-eead-4943-a054-dd2d0866df91)
