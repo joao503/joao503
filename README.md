@@ -39,22 +39,11 @@ Montagem e Manutenção de Computador do ZERO
 
  <b>Apaixonado por tegnologia, Inovação</b>  
  
-<div align="center">
-<table>
+<div align="left">
 <tr>
 <td>
-<b> Cientista da Computação</b>
-</td>
 <td>
-<b> Tester Pleno</b>
-</td>
-</tr>
-I<tr>
-<td>
-<img src="https://apilgriminnarnia.files.wordpress.com/2018/09/legally-blonde-laptop-e1536078931635.jpg" width="300px" height="170px">
-td> </
-<td>
-<img src="https://reactiongifs.me/wp-content/uploads/2019/05/Testers-Vs-Developers.gif" width="300px" height="178px">
+<img src="https://private-user-images.githubusercontent.com/70125868/357857319-f77eef7c-b683-412a-8b52-1cb9a30e545f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjM2NDgyOTgsIm5iZiI6MTcyMzY0Nzk5OCwicGF0aCI6Ii83MDEyNTg2OC8zNTc4NTczMTktZjc3ZWVmN2MtYjY4My00MTJhLThiNTItMWNiOWEzMGU1NDVmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODE0VDE1MDYzOFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTIyNTM0MjU1MWViNzA4ZjZiMzM1ZTE0MTAwNzgwMjY5ZGRkZWNkYmE0Nzc2ZDE0MzUzM2Y4MzRkYmMxOWM4MmUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.cwhzhkIIFDFVqZf_a72QDfFrMNfBXieSFUuP1al-E1c" width="230px" height="178px">
 </td>
 </tr>
 </table>
