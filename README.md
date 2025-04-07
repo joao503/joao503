@@ -38,6 +38,9 @@ Montagem e Manutenção de Computador do ZERO
 
  Certificado https://www.udemy.com/certificate/UC-3473c241-e620-4b9b-bf4a-512a24cdcb71/
 
+Diploma da faculdade 
+https://drive.google.com/file/d/13CP3vnqRqEakGzXpwSg9qKpwvhpD2BUO/view?usp=drivesdk
+
  <b>Apaixonado por tegnologia, Inovação</b>  
  
 
