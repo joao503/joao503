@@ -6,8 +6,7 @@ Sou um profissional formado em Sistemas de Informação pelo UNIVAG - Centro Uni
 
 ## O que eu faço
 
-Suporte Técnico para Computadores e Desktops: Proporciono diagnóstico e resolução de problemas, manutenção preventiva e corretiva, e suporte técnico geral para manter seus sistemas funcionando sem interrupções.
-Infraestrutura de TI: Estou aberto a novas oportunidades na área de infraestrutura de TI, onde posso aplicar meu conhecimento e habilidades para otimizar e gerenciar sistemas e redes.
+Ofereço suporte técnico especializado em computadores e desktops, incluindo diagnóstico, manutenção preventiva e corretiva, além de soluções eficientes para garantir o bom funcionamento dos sistemas. Estou em busca de novas oportunidades na área de infraestrutura de TI, onde possa aplicar minhas habilidades na gestão e otimização de redes e ambientes tecnológicos.
 
 Estou sempre pronto para enfrentar novos desafios e aprender mais para crescer na área de TI. Vamos conversar sobre como posso ajudar!
 
